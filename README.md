@@ -16,10 +16,11 @@
 ### **💻 System Preview (Console UI)**
 The system displays medicine details in a structured format:
 
+```
+ذذذذ
 
+https://github.com/user-attachments/assets/3e5fee0b-63ed-47b8-b71d-c5352d86efb0
 
-
-https://github.com/user-attachments/assets/ed029ce7-6cca-4a70-9000-128381ec39de
 
 ## 🛠️ Technical Stack
 - **Language:** C++.
