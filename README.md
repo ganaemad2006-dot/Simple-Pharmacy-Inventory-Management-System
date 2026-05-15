@@ -16,11 +16,19 @@
 ### **💻 System Preview (Console UI)**
 The system displays medicine details in a structured format:
 
-```cpp
-------------------------------------------------------------
-1. ID of the medicine         : 101
-2. Name of the medicine       : Panadol Advance
-3. Price of the medicine      : 40.00
-4. Quantity of the medicine   : 50
-5. Expiry Date                : 12/2027
-------------------------------------------------------------
+
+
+
+https://github.com/user-attachments/assets/ed029ce7-6cca-4a70-9000-128381ec39de
+
+## 🛠️ Technical Stack
+- **Language:** C++.
+- **Concepts:** Linked Lists, File Streams (I/O), Object-Oriented Programming (OOP).
+- **Tools:** `iomanip` for formatted console output.
+
+## 🏆 Goals
+This project was developed as part of my second-year Computer Science studies at **Thebes Academy**. It serves as a practical application of algorithms and data structures .
+
+---
+*Developed by Ganna Emad*
+
