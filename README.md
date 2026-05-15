@@ -17,7 +17,7 @@
 The system displays medicine details in a structured format:
 
 
-
+```
 
 https://github.com/user-attachments/assets/ed029ce7-6cca-4a70-9000-128381ec39de
 
