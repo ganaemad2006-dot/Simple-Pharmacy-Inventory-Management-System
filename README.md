@@ -30,4 +30,4 @@ This project was developed as part of my second-year Computer Science studies at
 *Developed by Ganna Emad*
 
 ---
-*Developed by Jana Emad*[cite: 1]
+*Developed by Ganna Emad*
