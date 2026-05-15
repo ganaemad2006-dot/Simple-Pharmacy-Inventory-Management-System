@@ -2,14 +2,14 @@
 
 A robust and efficient Pharmacy Management System built with **C++**. This project demonstrates the application of advanced programming concepts to solve real-world inventory problems.
 
-## 🚀 Key Features
+# 🚀 Key Features
 - **Medicine Management:** Full CRUD operations (Add, Display, Search, Delete , UpdateQuantity and Save ) for pharmacy inventory.
 - **Advanced Data Structures:** Implemented using **Linked Lists** for dynamic memory management and efficient data handling.
 - **Professional UI:** Utilizes `iomanip` (`setw`, `right`) to create a clean, table-like console interface for better user experience.
 - **Data Persistence:** Includes **File Handling** to save and load medicine data from text files, ensuring information is never lost.
 - **OOP Principles:** Developed using **Object-Oriented Programming** for modular and maintainable code.
 
-## 💻 System Preview (Console UI)
+# 💻 System Preview (Console UI)
 The system displays medicine details in a structured format:
 ```cpp
 ------------------------------------------------------------
@@ -20,12 +20,12 @@ The system displays medicine details in a structured format:
 5.Expiry Date                : 12/2027
 ------------------------------------------------------------
 
-## 🛠️ Technical Stack
+# 🛠️ Technical Stack
 - **Language:** C++.
 - **Concepts:** Linked Lists, File Streams (I/O), Object-Oriented Programming (OOP).
 - **Tools:** `iomanip` for formatted console output.
 
-## 🏆 Goals
+# 🏆 Goals
 This project was developed as part of my second-year Computer Science studies at **Thebes Academy**. It serves as a practical application of algorithms and data structures, and a step toward my participation in the **ICPC**.
 *Developed by Ganna Emad*
 
