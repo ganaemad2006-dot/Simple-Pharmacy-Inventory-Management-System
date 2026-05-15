@@ -15,11 +15,13 @@
 
 ### **💻 System Preview (Console UI)**
 The system displays medicine details in a structured format:
-
-https://github.com/user-attachments/assets/ed029ce7-6cca-4a70-9000-128381ec39de
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/ed029ce7-6cca-4a70-9000-128381ec39de" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
-
 ### **🛠️ Technical Stack**
 * **Language:** `C++`
 * **Concepts:** `Linked Lists`, `File Streams (I/O)`, `Object-Oriented Programming (OOP)`
