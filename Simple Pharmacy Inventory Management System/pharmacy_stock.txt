@@ -1,0 +1,7 @@
+108|Catafast_Sachet|12|150|02-2028|Shelf-A3|Novartis|Pain_Relief|
+107|Ventolin_Spray|60|25|09-2027|Shelf-B5|GSK|Respiratory|
+106|GavisconSyrup|75|10|11-2027|Shelf-D4|Reckitt|Antacid|
+105|Centrum_Adults|550|15|03-2027|Shelf-C1|Pfizer|Multivitamins|
+103|Concor_5mg|35|100|08-2028|Shelf-B2|Merck|Cardiology|
+102|Augmentin-1g|90|100|05-2026|Fridge-01|GSK|Antibiotic|
+101|Panadol_Advance|50|60|12-2027|Shelf-A1|GSK|Analgesic|
