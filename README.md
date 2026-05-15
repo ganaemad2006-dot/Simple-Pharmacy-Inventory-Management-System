@@ -28,7 +28,4 @@ The system displays medicine details in a structured format:
 # 🏆 Goals
 This project was developed as part of my second-year Computer Science studies at **Thebes Academy**. It serves as a practical application of algorithms and data structures.
 ---
-*Developed by Ganna Emad*[cite: 1]
-
----
 *Developed by Ganna Emad*
