@@ -18,14 +18,17 @@ The system displays medicine details in a structured format:
 
 https://github.com/user-attachments/assets/ed029ce7-6cca-4a70-9000-128381ec39de
 
-## 🛠️ Technical Stack
-- **Language:** C++.
-- **Concepts:** Linked Lists, File Streams (I/O), Object-Oriented Programming (OOP).
-- **Tools:** `iomanip` for formatted console output.
+---
 
-## 🏆 Goals
-This project was developed as part of my second-year Computer Science studies at **Thebes Academy**. It serves as a practical application of algorithms and data structures .
+### **🛠️ Technical Stack**
+* **Language:** `C++`
+* **Concepts:** `Linked Lists`, `File Streams (I/O)`, `Object-Oriented Programming (OOP)`
+* **Tools:** `iomanip` for formatted console output
 
 ---
-*Developed by Ganna Emad*
 
+### **🏆 Goals**
+This project was developed as part of my **second-year Computer Science** studies at **Thebes Academy**. It serves as a practical application of algorithms and data structures.
+
+---
+**Developed by:** `Ganna Emad`
