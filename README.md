@@ -14,9 +14,17 @@ The system displays medicine details in a structured format:
 ```cpp
 ------------------------------------------------------------
 1.ID of the medicine         : 101
+```cpp
+
 2.Name of the medicine       : Panadol Advance
+```cpp
+
 3.Price of the medicine      : 40.00
+```cpp
+
 4.Quantity of the medicine   : 50
+```cpp
+
 5.Expiry Date                : 12/2027
 ------------------------------------------------------------
 
